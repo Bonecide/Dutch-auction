@@ -1,0 +1,17 @@
+.Auctions {
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+.auc {
+    padding: 10px;
+    border: 1px solid blue;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    width: 300px;
+}
+.auc button {
+    cursor: pointer;
+}
